@@ -1,7 +1,5 @@
 **Telegram频道、Telegram群组、Telegram机器人全网合集，总有一个是你需要的！**
 
-# Telegram频道列表
-
 ## 搜索群
 
 | 频道名称 | 频道链接 | 订阅人数 | 频道简介 |
